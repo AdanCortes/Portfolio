@@ -2,7 +2,7 @@
 Cocina del Gallo - Gastropub
 ============================
 
-.. image:: /docs/img/logo.png
+.. image:: /img/logo.png
   :width: 250px
 	   
 ***Amor a primera pizza***
