@@ -11,10 +11,10 @@ function update {
 }
 
 PROJECT_DIR="$HOME/Office/cocinadelgallo"
-PORTFOLIO_DIR="$SCRIPT_DIR/portfolio/cocinadelgallo"
+PORTFOLIO_DIR="$SCRIPT_DIR/cocinadelgallo"
 update 
 
 PROJECT_DIR="$HOME/Office/legar/16desconton"
-PORTFOLIO_DIR="$SCRIPT_DIR/portfolio/16desconton"
+PORTFOLIO_DIR="$SCRIPT_DIR/16desconton"
 update 
 
