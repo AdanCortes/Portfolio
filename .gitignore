@@ -1,0 +1,33 @@
+# sphinx build directories
+_build/
+# dotfiles
+.*
+!.gitignore
+!.mailmap
+# compiled python files
+*.py[co]
+__pycache__/
+# setup.py egg_info
+*.egg-info
+# emacs
+\#*\#
+# backup files
+*~
+*.bak
+\#*\#
+# hg stuff
+*.orig
+status
+# various virtualenv
+.python-version
+pyvenv.cfg
+pip-selfcheck.json
+/bin/
+/build/
+/dist/
+/include/
+/lib/
+/lib64
+/man/
+/share/
+/src/
