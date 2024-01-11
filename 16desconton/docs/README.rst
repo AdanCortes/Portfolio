@@ -135,7 +135,7 @@ Client's portal
 .. image:: /docs/img/portal_sale_orders.png
   :width: 640px
 
-  * Buttons to change quantities in multiples of the box quantity (unit of purchase)
+* Buttons to change quantities in multiples of the box quantity (unit of purchase)
   
 * Client's Portal to access his quotations, sale orders, and invoices.
 
@@ -171,7 +171,7 @@ Dependencies
 This project depends on the following original modules.
 
 Promotions module
------------------
+=================
 
 This module provides the functionality necessary to support sale incentives, from simple discounts in a fixed amount ($5 off) or in percentaje (5% off) to more elaborated offers such as: Buy one and get one free; or Buy one, and get 50% off the second.  
 
