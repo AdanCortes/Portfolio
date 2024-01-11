@@ -2,7 +2,7 @@
 Dulcería El Desconton
 =====================
 
-.. image:: /docs/img/logo.png
+.. image:: /16desconton/docs/img/logo.png
   :width: 250px
 	   
 ***Para tu antojo, negocio o fiestón***
@@ -104,35 +104,35 @@ Website:
 
 Main page
 
-.. image:: /docs/img/website_main.png
+.. image:: /16desconton/docs/img/website_main.png
   :width: 640px
 
 Product-listing page. Here products can be searched by keyword or filtered by category. Also, price lists change along with the payment method. 
 
-.. image:: /docs/img/website_product_listing.png
+.. image:: /16desconton/docs/img/website_product_listing.png
   :width: 640px
 
 Single-product page
 
-.. image:: /docs/img/website_product_page.png
+.. image:: /16desconton/docs/img/website_product_page.png
   :width: 640px
 
 Cart
 
-.. image:: /docs/img/website_cart_sq.png
+.. image:: /16desconton/docs/img/website_cart_sq.png
   :width: 640px
 
 Below the standard +/- quantity buttons, there are other +/- that change the quantity by the box (taken from the product's unit of purchase).
 
-.. image:: /docs/img/website_cart_detail.png
+.. image:: /16desconton/docs/img/website_cart_detail.png
   :width: 640px
 
 Client's portal
 
-.. image:: /docs/img/portal_quotations.png
+.. image:: /16desconton/docs/img/portal_quotations.png
   :width: 640px
 
-.. image:: /docs/img/portal_sale_orders.png
+.. image:: /16desconton/docs/img/portal_sale_orders.png
   :width: 640px
 
 * Buttons to change quantities in multiples of the box quantity (unit of purchase)
@@ -144,25 +144,25 @@ Point of Sale (PoS):
 
 Products can be listed in either tiles or list 
 
-.. image:: /docs/img/pos_main.png
+.. image:: /16desconton/docs/img/pos_main.png
   :width: 640px
 
-.. image:: /docs/img/pos_main_list_view.png
+.. image:: /16desconton/docs/img/pos_main_list_view.png
   :width: 640px
 
 Product image magnification
 	  
-.. image:: /docs/img/pos_magnify.png
+.. image:: /16desconton/docs/img/pos_magnify.png
   :width: 640px
 
 Controls can be hidden for a cleaner display. Both promotions and rewards are shown as soon as the conditions are met.
 
-.. image:: /docs/img/pos_loyalty_02.png
+.. image:: /16desconton/docs/img/pos_loyalty_02.png
   :width: 640px
 
 If there are unclaimed free products, a coupon is printed on the ticket.
 	  
-.. image:: /docs/img/pos_loyalty_ticket_coupon.png
+.. image:: /16desconton/docs/img/pos_loyalty_ticket_coupon.png
   :width: 640px
 
 Dependencies
@@ -198,14 +198,14 @@ Set-up
 
 Let's see how a BoGo offer is set up: Buy $500 in products belonging to the Adam's category and get one pack of Trident Strong, the offer is valid through all sales channels, meaning retail stores (using Point of Sale) as well as backend Sale Orders.
 
-.. image:: /docs/img/promotions_new_bogo.png
+.. image:: /16desconton/docs/img/promotions_new_bogo.png
   :width: 640px
 
 
-.. image:: /docs/img/promotions_new_condition_bogo.png
+.. image:: /16desconton/docs/img/promotions_new_condition_bogo.png
   :width: 640px
 
-.. image:: /docs/img/promotions_new_reward_bogo.png
+.. image:: /16desconton/docs/img/promotions_new_reward_bogo.png
   :width: 640px
 
 
