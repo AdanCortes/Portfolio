@@ -163,7 +163,7 @@ Controls can be hidden for a cleaner display. Both promotions and rewards are sh
 If there are unclaimed free products, a coupon is printed on the ticket.
 	  
 .. image:: /16desconton/docs/img/pos_loyalty_ticket_coupon.png
-  :width: 640px
+  :height: 640px
 
 Dependencies
 ============
