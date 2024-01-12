@@ -9,7 +9,8 @@ Dulcería El Desconton
 
 Odoo v12.0, v14.0 and v16.0 customizations for a medium-sized candy distributor having wholesale and retail stores.
 
-Production site available on https://dulceriaeldesconton.mx/
+As of Jan. 1st, 2024, production site is available on https://dulceriaeldesconton.mx/
+Internet Archive WayBack Machine capture on https://web.archive.org/web/20220115193128/https://dulceriaeldesconton.mx/
 
 Main features
 =============
