@@ -18,3 +18,7 @@ PROJECT_DIR="$HOME/Office/legar/16desconton"
 PORTFOLIO_DIR="$SCRIPT_DIR/16desconton"
 update 
 
+PROJECT_DIR="$HOME/Office/Rockstar/Regal"
+PORTFOLIO_DIR="$SCRIPT_DIR/Regal"
+update 
+
